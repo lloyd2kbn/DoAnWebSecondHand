@@ -1,0 +1,89 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "shop": "Cửa hàng",
+    "page": "Trang",
+    "cart": "Giỏ hàng",
+    "checkout": "Thanh toán",
+    "details": "Chi tiết",
+    "item": "Sản phẩm",
+    "blog": "Bài viết",
+    "contract": "Liên hệ",
+    "languages":"Tiếng Việt",
+    "languages_1":"Tiếng Anh",
+    "languages_2":"Tiếng Việt",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "editUser": "Cập nhật thông tin",
+    "history": "Lịch sử đơn hàng",
+    "logout": "Đăng xuất"
+  },
+
+  "footer": {
+    "address": "Địa chỉ",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "title1": "Gửi email cho chúng tôi",
+    "title2": "Để nhận được các ưu đãi và phần quà mới nhất",
+    "subscribe": "Gửi"
+  },
+
+  "product": "Sản phẩm",
+
+  "login": {
+    "cancel":"Trở lại",
+    "welcom": "Chào mừng bạn",
+    "remember": "Nhớ mật khẩu",
+    "passwd": "Quên mật khẩu",
+    "login": "Đăng nhập",
+    "or": "Hoặc",
+    "register": "Đăng ký ngay",
+    "err": "Tên đăng nhập hoặc mật khẩu không hợp lệ"
+  },
+
+  "register": {
+    "register": "Đăng ký tài khoản",
+    "username": "Tên người dùng",
+    "mail": "E-mail",
+    "code": "Mã code",
+    "password": "Mật khẩu",
+    "phone": "Số điện thoại",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác",
+    "title": "Tôi đã đọc kỹ",
+    "agreement": "cam kết",
+    "verify": "Lấy mã"
+  },
+  "home":{
+    "title":"Quần áo",
+    "contents_1":"100% uy tín và chất lượng",
+    "contents_2":"Miễn phí vận chuyển khi mua trên 2 sản phẩm",
+    "button":"MUA NGAY",
+    "accessories": "Phụ kiện",
+    "top":"Áo",
+    "bottoms": "Quần",
+    "outerwear":"Áo khoác",
+    "footwear":"Giày",
+    "LatestProducts":"Sản phẩm mới",
+    "TopSaleProducts":"Sản phẩm bán chạy",
+    "SaleOff":"Giảm giá",
+    "FeaturedProduct":"Sản phẩm đặc trưng",
+    "all":"Tất cả"
+  },
+  "search":{
+    "button":"TÌM KIẾM",
+    "placehoder":"Bạn cần tìm mặt hàng nào?"
+  },
+  "navHeader":{
+    "categories":"Các danh mục",
+    "accessories":"Phụ kiện",
+    "outerwear":"Áo khoác",
+    "tops":"Áo",
+    "bottoms":"Quần",
+    "footwear":"Giày",
+    "support":"hỗ trợ 24/7 mỗi ngày."
+
+  }
+}

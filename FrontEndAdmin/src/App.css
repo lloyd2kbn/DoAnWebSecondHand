@@ -1,0 +1,8 @@
+.App .navbar-vertical-fixed {
+  margin-left: 0;
+  z-index: 0;
+}
+
+.navbar-vertical-aside-has-menu .nav-item--show {
+  display: block;
+}

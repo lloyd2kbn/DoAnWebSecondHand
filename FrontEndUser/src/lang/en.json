@@ -1,0 +1,90 @@
+{
+  "header": {
+    "home": "Home",
+    "shop": "Shop",
+    "page": "Pages",
+    "cart": "Shopping Cart",
+    "checkout": "Checkout",
+    "details": "Blog Details",
+    "item": "item",
+    "languages":"English",
+    "languages_1":"English",
+    "languages_2":"Vietnamese",
+    "blog": "Blog",
+    "contract": "Contract",
+  
+    "login": "Login",
+    "register": "Register",
+    "editUser": "Edit User",
+    "history": "History",
+    "logout": "Logout"
+  },
+
+  "footer": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "title1": "Join Our Newsletter Now",
+    "title2": "Get E-mail updates about our latest shop and special offers.",
+    "subscribe": "Subscribe"
+  },
+
+  "product": "Product",
+
+  "login": {
+    "cancel":"Back",
+    "welcom": "Welcome to",
+    "remember": "Remember me",
+    "passwd": "Forgot password",
+    "login": "Log in",
+    "or": "Or",
+    "register": "Register now",
+    "err": "UserName or password wrong"
+  },
+
+  "register": {
+    "register": "Register to",
+    "username": "username",
+    "mail": "E-mai",
+    "code": "Code",
+    "password": "Password",
+    "phone": "Phone Number",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "title": "I have read the",
+    "agreement": "agreement",
+    "verify": " Get verify"
+  },
+  "home":{
+    "title":"Clothes",
+    "contents_1":"100% prestige and quality",
+    "contents_2":"Free shipping when you buy over 2 products",
+    "button":"SHOP NOW",
+    "accessories": "Accessories",
+    "top":"Tops",
+    "bottoms": "Bottoms",
+    "outerwear":"Outerwear",
+    "footwear":"Footwear",
+    "LatestProducts":"Latest Products",
+    "TopSaleProducts":"Top Sale Products",
+    "SaleOff":"Sale Off",
+    "FeaturedProduct":"Featured Product",
+    "all":"All"
+  },
+  "search":{
+    "button":"SEARCH",
+    "placehoder":"What do you need?"
+  },
+  "navHeader":{
+    "categories":"All categories",
+    "accessories":"Accessories",
+    "outerwear":"Outerwear",
+    "tops":"Tops",
+    "bottoms":"Bottoms",
+    "footwear":"Footwear",
+    "support":"support 24/7 everyday."
+
+  }
+}

@@ -1,0 +1,25 @@
+.checkout__input__checkbox{
+    display: flex;
+    align-items: center;
+    color: #1890ff;
+    font-weight: 700;
+    img{
+        width: 100px;
+        height: 50px;
+        object-fit: cover;
+    }
+    a{
+        color: #1890ff;
+    }
+    .checkoutPaypal{
+        margin-left: 7px;
+        border: 1px solid #1890ff;
+        &:hover{
+            opacity: 0.8;
+            background-color: #1890ff;
+            color: black;
+        }
+
+    }
+    
+}

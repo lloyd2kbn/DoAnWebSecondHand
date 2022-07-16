@@ -1,0 +1,48 @@
+#basic{
+  width: 23vw;
+  padding: 50px 70px 30px 0px;
+}
+h2{
+  color: #1890ff;
+}
+.container-form{
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.container-login{
+  display: flex;
+  padding: 30px;
+  border: 5px solid #1890ff;
+ 
+  
+}
+
+.login-with-facebook{
+  width: 150px;
+  padding:7px 0;
+  background-color: #3b5998;
+  color: white;
+  border: none;
+}
+.login-with-google{
+  width: 150px;
+  margin-top: 10px;
+  padding:7px 0;
+  background-color: #d34836;
+  color: white;
+  border: none;
+}
+.container-button{
+  display: flex;
+  flex-direction: column;
+}
+i{
+  margin-right: 9px;
+}
+.container-right-login{
+  margin-left: 30px;
+}
